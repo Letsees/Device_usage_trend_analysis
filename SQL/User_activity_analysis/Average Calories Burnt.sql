@@ -1,0 +1,1 @@
+SELECT AVG(Calories) as avg_calories  FROM `bellabeat-usage-data-analk.Bellabeat_data_usage.DailyActivity` LIMIT 1000
